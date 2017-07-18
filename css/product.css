@@ -1,0 +1,93 @@
+
+
+@font-face {
+	font-family: "FZYH502L";
+	src: url('../font-awesome-4.2.0/fonts/FZYH502L.TTF');
+	font-weight: normal;
+}
+@font-face {
+	font-family: "lanting";
+	src: url('../font-awesome-4.2.0/fonts/方正兰亭超细黑.TTF');
+	font-weight: normal;
+}
+@font-face {
+    font-family: "pingfangjianti";
+    src: url('../font-awesome-4.2.0/fonts/PingFang 简体.ttf');
+    /*font-weight: normal;*/
+}
+@font-face {
+    font-family: "hanyiyuanlonghei";
+    src: url('../font-awesome-4.2.0/fonts/hanyiyuanlonghei.ttf');
+    /*font-weight: normal;*/
+}
+
+.carousel-inner .item{
+   width: 100%;
+
+}
+ .navbar{
+       position: fixed;
+       /*background-color: #000;*/
+       width:100%;
+       height: 60px;
+       z-index: 1;
+       top:0;
+	   /*color: #c0c0c0;*/
+	   cursor: pointer;
+
+   }
+   /*.container-fluid{*/
+      /*margin-left: 50%;*/
+   /*}*/
+ul li{
+	margin-left: 35px;
+}
+.carousel-inner .item img{
+ background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: auto;
+	/*height: 400px;*/
+	width: 100%;
+	/*min-height:200px;*/
+	/*xujin jiade */
+	/*padding-top: 60px;*/
+	/*color:#000;*/
+}
+
+
+.space{ padding-top: 40px; }
+hr{
+	width: 50px;
+	border-color: #c59a6d;
+}
+.carousel-caption h2{
+    /*margin-top: -55%;*/
+     font-family: 'lanting', sans-serif;
+     font-weight: bold;
+     letter-spacing: 4px;
+}
+
+.main .container{
+    padding: 6% 15%;
+    width: 100%
+     
+}
+
+.main .container p{
+   font-family: 'pingfangjianti', sans-serif;
+    font-size: 17px;
+    width: 65%;
+    margin: 0 auto;
+    line-height: 2;
+    letter-spacing: 1.5px;
+    text-align: justify;
+}
+
+#footer{
+    background: rgb(247,247,247);
+}
+#footer .container{
+    padding: 4% 0 3% 0;
+}

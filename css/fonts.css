@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "zhanghaishan";
+	src: url('../font-awesome-4.2.0/fonts/zhanghaishan.ttf');
+	/*font-weight: normal;*/
+}
+@font-face {
+	font-family: "fangzhengyouhei";
+	src: url('../font-awesome-4.2.0/fonts/fangzhengyouhei.ttf');
+	/*font-weight: normal;*/
+}
+@font-face {
+	font-family: "pingfangbold";
+	src: url('../font-awesome-4.2.0/fonts/._PingFang Bold.ttf');
+	/*font-weight: normal;*/
+}
+
+@font-face {
+	font-family: "pingfanglight";
+	src: url('../font-awesome-4.2.0/fonts/._PingFang Light.ttf');
+	/*font-weight: normal;*/
+}
+
+@font-face {
+	font-family: "fangzhengyouhei";
+	src: url('../font-awesome-4.2.0/fonts/._PingFang 简体.ttf');
+	/*font-weight: normal;*/
+}
+
+@font-face {
+	font-family: "pingfangjianti";
+	src: url('../font-awesome-4.2.0/fonts/._PingFang 简粗.ttf');
+	/*font-weight: normal;*/
+}
+
+@font-face {
+	font-family: "pingfangjiancu";
+	src: url('../font-awesome-4.2.0/fonts/._PingFang 简细.ttf');
+	/*font-weight: normal;*/
+}
